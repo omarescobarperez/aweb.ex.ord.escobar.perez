@@ -1,5 +1,9 @@
 Esto es el ejercicio
 de el examen
 que estamos realizando
+<<<<<<< HEAD
 Fecha: 31 de mayo
 Area: Desarrollo de software multiplataformaa
+=======
+Fecha: 31 de mayo del 2021
+>>>>>>> Mantto
