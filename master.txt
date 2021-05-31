@@ -2,4 +2,4 @@ Esto es el ejercicio
 de el examen
 que estamos realizando
 Fecha: 31 de mayo
-Area: Desarrollo de software multiplataforma
+Area: Desarrollo de software multiplataformaa
